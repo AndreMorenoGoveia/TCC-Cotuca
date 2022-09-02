@@ -1,3 +1,11 @@
+# Autor: André Moreno Goveia 
+'''
+
+Código do Projeto de TCC para o Colégio Técnico da Unicamp,
+orientado por Prof. Nelson Natal Paciulli Bryan
+
+'''
+
 #Biblioteca importada
 import cv2
 from gpiozero import AngularServo
